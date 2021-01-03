@@ -7,8 +7,9 @@ Hi, my name is Henrique. I am 28 years old and I currently work as a dev jr. Tec
 
 - JavaScript and jQuery
 - HTML5 CSS3 and Scss
-- PHP - WP and WooCommerce
+- PHP
 - Bootstrap
+- WooCommerce
 - React (Coming soon) :fire:
 
 [![gmail](https://img.shields.io/badge/gmail-red?style=flat&logo=gmail&labelColor=white)](mailto:bortolettohenrique@gmail.com)
