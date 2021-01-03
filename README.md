@@ -6,7 +6,7 @@ Hi, my name is Henrique. I am 28 years old and I currently work as a dev jr. Tec
 :notebook_with_decorative_cover: **Stacks I currently work on**
 
 - JavaScript and jQuery
-- HTML5 CSS3 and Scss
+- HTML5 CSS3 and SCSS
 - PHP
 - Bootstrap
 - WooCommerce
