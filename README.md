@@ -13,4 +13,4 @@ Hi, my name is Henrique. I am 28 years old and I currently work as a dev jr. Tec
 - React (Coming soon) :fire:
 
 [![gmail](https://img.shields.io/badge/gmail-red?style=flat&logo=gmail&labelColor=white)](mailto:bortolettohenrique@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/henriquebortoletto/) :metal::metal:
+[![linkedin](https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/henriquebortoletto/)
