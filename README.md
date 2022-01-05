@@ -1,16 +1,17 @@
- :wave: Hi :wave:
----
 
-Hi, my name is Henrique. I am 29 years old and currently working as a full dev. Technology has fallen into the parachute in my life. Nothing like a notebook and spotify playing a rap to help build something big.
+<p align="left" min-width="300px" max-width="300px" width="300px">
+   :wave: Olá, meu chamo Henrique Bortoletto. Atuo como desenvolvedor <strong>Full-Stack</strong>.
+ </p>
 
-:notebook_with_decorative_cover: **Stacks I currently work on**
+<p align="left">
+ :desktop_computer: Tecnologias: <strong>JavaScript, Scss, ReactJS, Node</strong>.
+</p>
 
-- JavaScript
-- HTML5 CSS3 and SCSS
-- PHP
-- Node
-- WooCommerce
-- React (Coming soon) :fire:
+<p align="left">
+ :envelope_with_arrow: Envie-me uma mensagem caso queira um bate-papo :)
+</p>
 
-[![gmail](https://img.shields.io/badge/gmail-red?style=flat&logo=gmail&labelColor=white)](mailto:bortolettohenrique@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/henriquebortoletto/)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bortolettohenrique@gmail.com)
+[![linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&labelColor=blue)](https://www.linkedin.com/in/henriquebortoletto/)
