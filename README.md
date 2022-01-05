@@ -15,5 +15,5 @@
   :wave: Olá :wave:<br/>
   :man: Me chamo Henrique Bortoletto. Atuo como desenvolvedor <strong>Full-Stack</strong>.<br />
   :desktop_computer: Tecnologias: <strong>JavaScript, Scss, ReactJS, Node</strong>.<br />
-  :envelope_with_arrow: Envie-me uma mensagem caso queira um bate-papo :)
+  :envelope_with_arrow: Envie-me uma mensagem caso queira bater um bate-papo :)
  </p>
