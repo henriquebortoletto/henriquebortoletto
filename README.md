@@ -1,6 +1,20 @@
+<h2 align="center">
+  <img src="./mockup.svg" width="400px">
+</h2>
 
-<p align="left" min-width="300px" max-width="300px" width="300px">
-   :wave: Olá, meu chamo Henrique Bortoletto. Atuo como desenvolvedor <strong>Full-Stack</strong>.
+<div align="center">
+  <a href="mailto:bortolettohenrique@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail-red?style=flat&logo=gmail&labelColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/henriquebortoletto/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
+  </a>
+</div>
+
+<h3 align="center">:wave: Olá :wave:</h3>
+
+<p align="left">
+  :man: Me chamo Henrique Bortoletto. Atuo como desenvolvedor <strong>Full-Stack</strong>.
  </p>
 
 <p align="left">
@@ -10,8 +24,3 @@
 <p align="left">
  :envelope_with_arrow: Envie-me uma mensagem caso queira um bate-papo :)
 </p>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bortolettohenrique@gmail.com)
-[![linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&labelColor=blue)](https://www.linkedin.com/in/henriquebortoletto/)
