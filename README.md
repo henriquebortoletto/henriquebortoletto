@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="./mockup.svg" width="400px">
+  <img src="./mockup.svg" width="500px">
 </h2>
 
 <div align="center">
@@ -11,9 +11,8 @@
   </a>
 </div>
 
-<h3 align="center">:wave: Olá :wave:</h3>
-
 <p align="left">
+  :wave: Olá :wave:<br/>
   :man: Me chamo Henrique Bortoletto. Atuo como desenvolvedor <strong>Full-Stack</strong>.
  </p>
 
@@ -24,3 +23,13 @@
 <p align="left">
  :envelope_with_arrow: Envie-me uma mensagem caso queira um bate-papo :)
 </p>
+
+<table border="0">
+  <tr>
+    <td>
+      <p align="left">
+        :man: Me chamo Henrique Bortoletto. Atuo como desenvolvedor <strong>Full-Stack</strong>.
+      </p>
+    </td>
+  </tr>
+</table>
