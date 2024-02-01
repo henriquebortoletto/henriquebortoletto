@@ -1,8 +1,6 @@
 ## About
 
 - 👨‍🦱 Hello, I'm <b>Henrique Bortoletto</b>
-- 💼 I'm a developer focused on front-end
-- 🎓 I’m currently studing: <b>ReactJS</b>, <b>NextJS</b>, <b>NodeJS</b>
 - 🕟 My portfolio coming soon
   
 <p align="left">
