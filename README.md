@@ -15,7 +15,7 @@ I'm a Web Developer. And, I'm studying backend to aggregate on the web skills.
 - 🎉 Frontend: `Reactjs`, `Nextjs`, `HTML5`, `CSS3`, `SCSS`, `Tailwind`.
 - 🎨 Layout Design: `Figma`.
 - 📦 Version Control: `Git`, `GitFlow`, `Github`, `Bitbucket`.
-- 🔧 Tools: `GraphQL`, `Docker`,
+- 🔧 Tools: `Bash`, `GraphQL`, `Docker`,
 
 #### Contacts
 
