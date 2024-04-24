@@ -6,7 +6,7 @@ I'm a Web Developer. And, I'm studying backend to aggregate on the web skills.
 
 #### Current Stack
 
-- ⚡️ Language: `Javascript`.
+- ⚡️ Language: `Javascript`, `Typescript`.
 - 🪜 Backend:
     - Going deeper: `Nodejs`.
     - Next month I start my postgraduate course at `FullCycle` with `GoLang`, I will post my progress.
