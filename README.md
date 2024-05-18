@@ -8,8 +8,8 @@ I'm a Web Developer. And, I'm studying backend to aggregate on the web skills.
 
 - ⚡️ Language: `Javascript`, `Typescript`.
 - 🪜 Backend:
-    - Going deeper: `Nodejs`.
-    - Next month I start my postgraduate course at `FullCycle` with `GoLang`, I will post my progress.
+    - `Nodejs`.
+    - Studying postgraduate `FullCycle` with `GoLang`, I will post my progress.
 - 🔖 CMS: `WordPress`.
 - 💾 DB: `Postgres`, `Sequelize`
 - 🎉 Frontend: `Reactjs`, `Nextjs`, `HTML5`, `CSS3`, `SCSS`, `Tailwind`.
