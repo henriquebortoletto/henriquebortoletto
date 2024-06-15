@@ -11,7 +11,7 @@ I'm a Web Developer. And, I'm studying backend to aggregate on the web skills.
     - `Nodejs`.
     - Studying postgraduate `FullCycle` with `GoLang`, I will post my progress.
 - 🔖 CMS: `WordPress`.
-- 💾 DB: `Postgres`, `Sequelize`
+- 💾 DB: `Postgres`
 - 🎉 Frontend: `Reactjs`, `Nextjs`, `HTML5`, `CSS3`, `SCSS`, `Tailwind`.
 - 🎨 Layout Design: `Figma`.
 - 📦 Version Control: `Git`, `GitFlow`, `Github`, `Bitbucket`.
