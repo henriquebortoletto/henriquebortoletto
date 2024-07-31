@@ -7,9 +7,7 @@ I'm a Web Developer. And, I'm studying backend to aggregate on the web skills.
 #### Current Stack
 
 - ⚡️ Language: `Javascript`, `Typescript`.
-- 🪜 Backend:
-    - `Nodejs`.
-    - Studying postgraduate `FullCycle` with `GoLang`, I will post my progress.
+- 🪜 Backend: `Nodejs`, `GoLang`.
 - 🔖 CMS: `WordPress`.
 - 💾 DB: `Postgres`
 - 🎉 Frontend: `Reactjs`, `Nextjs`, `HTML5`, `CSS3`, `SCSS`, `Tailwind`.
