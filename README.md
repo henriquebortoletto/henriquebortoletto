@@ -1,17 +1,13 @@
-### Olá, sou Henrique Bortoletto
+### Nice to meet you, I'm Henrique Bortoletto
 
-#### Stacks
+Graduated in Information Systems. I work on building systems using technologies like React, Next.js, Node, GraphQL, PostgreSQL, and Docker, always aiming to contribute to the growth of the business and the team through well-built solutions.
 
-- ⚡️ Language: `Javascript`, `Typescript`.
-- 🪜 Backend: `Nodejs`.
-- 🔖 CMS: `WordPress`.
-- 💾 DB: `Postgres`
-- 🎉 Frontend: `Reactjs`, `Nextjs`, `HTML5`, `CSS3`, `SCSS`, `Tailwind`.
-- 🎨 Layout Design: `Figma`.
-- 📦 Version Control: `Git`, `GitFlow`, `Github`, `Bitbucket`.
-- 🔧 Tools: `Bash`, `GraphQL`, `Docker`,
+### What I'm currently working on
 
-#### Contatos
+- Diving into the mobile ecosystem, studying React Native, Expo, and its surrounding tools
+- Exploring AI and LLMs and how to apply them to my daily workflow
 
-- 📧 Email: <a href="mailto:bortolettohenrique@gmail.com" target="_blank">bortolettohenrique@gmail.com</a>
-- 🧔‍♂️ Linkedin: <a href="https://www.linkedin.com/in/henriquebortoletto/" target="_blank">linkedin.com/in/henriquebortoletto</a>
+### Contact
+
+- Email: bortolettohenrique@gmail.com
+- LinkedIn: linkedin.com/in/henriquebortoletto
